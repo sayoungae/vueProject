@@ -5,6 +5,7 @@ import ChartSection from '../components/ChartSection.vue';
 
 const routes = [
   {
+    base: process.env.BASE_URL,
     path: '/',
     name: 'home',
     component: HomeView,
