@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue';
-import TodaySection from '../components/TodaySection.vue';
-import ChartSection from '../components/ChartSection.vue';
+import HomeView from '/views/HomeView.vue';
+import TodaySection from '/components/TodaySection.vue';
+import ChartSection from '/components/ChartSection.vue';
 
 const routes = [
   {
