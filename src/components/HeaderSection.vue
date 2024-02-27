@@ -6,7 +6,7 @@
     <header id="header" role="banner">
         <div class="header__inner">
             <h1 class="header__logo">
-                <a href="#"><img src = "@/assets/images/logo.svg" />
+                <a href="/"><img src = "@/assets/images/logo.svg" />
                 </a>
             </h1>
             <div class="menu_wrap">
